@@ -59,8 +59,8 @@ class Main extends Component{
     <React.Fragment>
     <Header />
       <TransitionGroup>
-      <CSSTransition key={this.props.location.key} classNames="page" timeout={300}>
-        <Switch>
+      <CSSTransition key={this.props.location.pathname} classNames="page" timeout={300}>
+        <Switch >
           <Route path="/home" component={HomePage} />
           <Route path="/Aboutus" component={() =><About leaders={this.props.leaders}/>} />
           <Route exact path="/menu" component={() =><Menu dishes={this.props.dishes} />} />
