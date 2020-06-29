@@ -21,7 +21,7 @@ function RenderCard({ item, isLoading, errMess }) {
             exitTransform: 'scale(0.5) translateY(-50%)'
           }}>
       <Card>
-        <CardImg src={item.image} alt={item.name} />
+        <CardImg src={'https://images.pexels.com/photos/4672522/pexels-photo-4672522.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'} alt={item.name} />
         <CardBody>
           <CardTitle>{item.name}</CardTitle>
           {item.designation ? <CardSubtitle>{item.designation}</CardSubtitle> : null}
