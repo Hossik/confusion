@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/confusion/static/css/main.905d2376.chunk.css",
-    "main.js": "/confusion/static/js/main.cb75eb80.chunk.js",
-    "main.js.map": "/confusion/static/js/main.cb75eb80.chunk.js.map",
+    "main.js": "/confusion/static/js/main.90271b04.chunk.js",
+    "main.js.map": "/confusion/static/js/main.90271b04.chunk.js.map",
     "runtime-main.js": "/confusion/static/js/runtime-main.5fe46f68.js",
     "runtime-main.js.map": "/confusion/static/js/runtime-main.5fe46f68.js.map",
     "static/css/2.f63b3e28.chunk.css": "/confusion/static/css/2.f63b3e28.chunk.css",
     "static/js/2.b64dd6e3.chunk.js": "/confusion/static/js/2.b64dd6e3.chunk.js",
     "static/js/2.b64dd6e3.chunk.js.map": "/confusion/static/js/2.b64dd6e3.chunk.js.map",
     "index.html": "/confusion/index.html",
-    "precache-manifest.0e0f76015b81de9dde507ae46309ff9b.js": "/confusion/precache-manifest.0e0f76015b81de9dde507ae46309ff9b.js",
+    "precache-manifest.c4184c08e426cb012e048ea8008a0a8b.js": "/confusion/precache-manifest.c4184c08e426cb012e048ea8008a0a8b.js",
     "service-worker.js": "/confusion/service-worker.js",
     "static/css/2.f63b3e28.chunk.css.map": "/confusion/static/css/2.f63b3e28.chunk.css.map",
     "static/css/main.905d2376.chunk.css.map": "/confusion/static/css/main.905d2376.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.f63b3e28.chunk.css",
     "static/js/2.b64dd6e3.chunk.js",
     "static/css/main.905d2376.chunk.css",
-    "static/js/main.cb75eb80.chunk.js"
+    "static/js/main.90271b04.chunk.js"
   ]
 }
